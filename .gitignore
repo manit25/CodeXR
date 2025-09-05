@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment files (secrets)
+.env
+.env.*
+
+# User data / secrets
+user_data/
+history/
+users/
+codexr/data/
+*.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / logs
+*.log
+*.sqlite3
